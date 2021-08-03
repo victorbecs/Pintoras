@@ -1,0 +1,75 @@
+h1 {
+	font-family: "Sofia", sans-serif;
+	text-align: center;
+	padding: 40px;
+	text-shadow: 2px 2px 5px PaleVioletRed;
+	color: Indigo;
+}
+
+h3 {
+	color: Purple;
+	text-align: center;
+}
+
+.contenedor {
+	display: flex;
+	width: 100%;
+	border: 5px solid Indigo;
+	 box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	 margin-right: 10px;
+	 background-color: LavenderBlush;
+}
+
+.c1 {
+	display: outline-flex;
+	width: 19%;
+	border: 1px solid Indigo;
+	padding: 10px;
+}
+
+.c2 {
+	display: outline-flex;
+	width: 19%;
+	border: 1px solid Indigo;
+	padding: 10px;
+}
+
+.c3 {
+	display: outline-flex;
+	width: 19%;
+	border: 1px solid Indigo;
+	padding: 10px;
+}
+
+.c4 {
+	display: outline-flex;
+	width: 19%;
+	border: 1px solid Indigo;
+	padding: 10px;
+	padding-bottom: 30px;
+}
+
+.c5 {
+	display: outline-flex;
+	width: 19%;
+	border: 1px solid Indigo;
+	padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.cita {
+	color: Purple;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'MetaSerifLfBook',Palatino,Times,serif;
+    font-size: 24px;
+}
